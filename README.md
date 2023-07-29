@@ -1,9 +1,13 @@
-<h1 align="center">Hi 👋, I'm Mia</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ma-re&label=Profile%20views&color=5da81f&style=plastic" alt="ma-re" /> </p>
+# Hi 👋, I'm Mia
+
+I'm a Data Science coach at neuefische in Hamburg. 🐡
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-green)
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-<img align="left" src="https://github-readme-stats-ruby-one.vercel.app/api?username=ma-re&show_icons=true&count_private=true&theme=merko" />
+![view count](https://komarev.com/ghpvc/?username=ma-re&label=Profile%20views&color=5da81f&style=plastic)
