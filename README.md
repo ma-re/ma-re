@@ -1,6 +1,6 @@
 # Hi 👋,
 
-I'm Mia and I'm working as a Data Engineer and Senior Data Science Coach at neuefische in Hamburg. 🐡
+I'm Mia and I'm working as a ML Specialist at nextevolution in Hamburg. 🐡
 
 
 
